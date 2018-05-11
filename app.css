@@ -7,10 +7,10 @@ h1 {
 
 .border {
     border-radius: 3px;
-    box-shadow: 2px 2px 20px 2px black;
 }
 
-.body{
-    position: relative
+.cent{
+        position:relative;
+        text-align: center
 }
-
+     
