@@ -25,4 +25,14 @@ th, td, table {
     font-kerning: inherit;
 }
 
+.position{
+    position: absolute;
+    left: 38%;
+    border: 5px navy;
+    border-style: groove;
+}
+.innerborder{
+    border: 3px red;
+    border-style: inset;
+}
  
