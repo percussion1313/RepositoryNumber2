@@ -12,5 +12,17 @@ h1 {
 .cent{
         position: relative;
         text-align: center
+
 }
-     
+
+th, td, table {
+    border: 2px black;
+    border-style: double;
+} 
+
+.tablefont{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-kerning: inherit;
+}
+
+ 
